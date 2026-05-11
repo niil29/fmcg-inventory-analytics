@@ -309,7 +309,7 @@ fmcg-inventory-analytics/
 ├── 04_exploratory_data_analysis.sql
 ├── 05_business_analytics.sql
 ├── schema_diagram.png
-├── FMCG_Inventory_Dashboard.pbix
+├── Batch-Aware Inventory Design.pbix
 ├── screenshots/
 │   ├── 01_Executive_Summary.png
 │   ├── 02_Expiry_Loss_Analysis.png
